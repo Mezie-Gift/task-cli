@@ -34,8 +34,11 @@ sudo mv task-cli /usr/local/bin/task-cli
 
 > ✅ After installation, you can run commands like:
 > `bash
-> task-cli add "Buy groceries"
-> task-cli list
+>
+```
+task-cli add "Buy groceries"
+task-cli list
+```
 > `
 
 ---
@@ -60,9 +63,9 @@ sudo mv task-cli /usr/local/bin/task-cli
 
 Try running:
 
-`bash
+```bash
 task-cli list
-`
+```
 
 If it displays your tasks, you're good to go!
 
