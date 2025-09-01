@@ -21,6 +21,7 @@ task-cli is a lightweight command-line tool for managing tasks directly from you
 
 1. Clone the repository
 git clone https://github.com/Mezie-Gift/task-cli.git
+
 cd task-cli
 
 2. Make the CLI script executable
