@@ -2,6 +2,7 @@
 ## 🧰 task-cli: A Simple Command-Line ToDo Manager
 
 task-cli is a lightweight command-line tool for managing tasks directly from your terminal. Add, update, delete, and track tasks with ease — no GUI required.
+This project was built as a sample solution to the thttps://github.com/Mezie-Gift/task-cli  project of roadmap.sh
 
 ---
 
@@ -20,9 +21,10 @@ task-cli is a lightweight command-line tool for managing tasks directly from you
 `bash
 
 1. Clone the repository
+```
 git clone https://github.com/Mezie-Gift/task-cli.git
-   cd task-cli
-
+cd task-cli
+```
 2. Make the CLI script executable
 chmod +x task-cli
 
