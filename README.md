@@ -38,7 +38,7 @@ sudo mv task-cli /usr/local/bin/task-cli
 
 ---
 
-📚 Available Commands
+## 📚 Available Commands
 
 | Command                        | Description                          |
 |-------------------------------|--------------------------------------|
