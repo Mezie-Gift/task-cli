@@ -30,15 +30,15 @@ sudo mv task-cli /usr/local/bin/task-cli
 > `bash
 > task-cli add "Buy groceries"
 > task-cli list
-> `
+```
 
 ---
 
-📚 Available Commands
+## 📚 Available Commands
 
-| Command                        | Description                          |
-|-------------------------------|--------------------------------------|
-| add "task"                  | Add a new task                       |
+| Command           |           | Description                           |
+|-------------------------------|------------------|
+| add "task"          |       | Add a new task                       |
 | update <id> "task"          | Update an existing task              |
 | delete <id>                 | Delete a task                        |
 | mark-done <id>              | Mark a task as done                  |
@@ -50,7 +50,7 @@ sudo mv task-cli /usr/local/bin/task-cli
 
 ---
 
-🧪 Testing the CLI
+## 🧪 Testing the CLI
 
 Try running:
 
@@ -62,20 +62,20 @@ If it displays your tasks, you're good to go!
 
 ---
 
-🧰 Troubleshooting
+## 🧰 Troubleshooting
 
 - If you get command not found, make sure /usr/local/bin is in your $PATH.
 - If you're on Windows, consider using WSL or Git Bash.
 
 ---
 
-💡 Contributing
+## 💡 Contributing
 
 Pull requests are welcome! If you have suggestions for improvements or new features, feel free to fork the repo and submit a PR.
 
 ---
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License.
 
